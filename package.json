@@ -1,0 +1,8 @@
+{
+  "name": "mevn",
+  "packageManager": "yarn@3.0.2",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon --exec babel-node app.js"
+  }
+}
